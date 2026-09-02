@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-07-14 09:00:00-0500
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Participé como coautor y evaluador internacional en la **Conferencia Internacional CPA 2026** en Río de Janeiro, Brasil, presentando el trabajo "Contabilidad Ambiental: una Propuesta Educativa Decolonial" junto a Candy Chamorro.

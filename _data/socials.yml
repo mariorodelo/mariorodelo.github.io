@@ -1,7 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/cv-mario-rodelo.pdf # path to your CV PDF file
 email: mrodelo@mail.uniatlantico.edu.co # your email address
+orcid_id: 0000-0002-3738-6395
 linkedin_username: mario-alberto-rodelo-sehuanes-a9968325b
 scholar_userid: Fj4biUgAAAAJ # your Google Scholar ID
 rss_icon: true # comment this line to hide the RSS icon
+custom_social:
+  logo: https://scienti.minciencias.gov.co/publindex/img/logo_MinCiencias.png
+  title: CvLAC
+  url: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000055413

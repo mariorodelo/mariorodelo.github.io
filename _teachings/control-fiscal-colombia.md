@@ -22,3 +22,8 @@ schedule:
     date: Unidad 4
     topic: "Control Fiscal y Sistema Interno de Control"
     description: Relación entre el control fiscal externo y los sistemas de control interno de las entidades públicas.
+  - week: 5
+    date: Unidad 5
+    topic: "Reflexiones, aportes y apuestas de un nuevo modelo de Control Fiscal"
+    description: Análisis crítico y propuestas para la evolución del modelo de control fiscal en Colombia.
+---

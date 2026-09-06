@@ -2,14 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Docencia
-description: Course materials, schedules, and resources for classes taught.
+description: Cursos de pregrado y posgrado en contaduría pública, con materiales y recursos de cada curso.
 nav: true
 nav_order: 2
-calendar: true
 ---
-
 This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
 {% include courses.liquid %}

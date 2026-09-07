@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Algunas ideas de Gobernabilidad en la victoria y presidencia de Gustavo Petro & Francia Márquez: Un Gobierno Popular para vivir sabroso 2022-2026"
+date: 2022-06-23 09:00:00
+description: "Aproximaciones textuales y contextuales al concepto de gobernabilidad aplicado al contexto político colombiano tras las elecciones presidenciales de 2022."
+tags: gobernabilidad política colombia
+categories: reflexiones
+---
+Actualmente en Colombia se vislumbran nuevos aires de cambios en la gestión y administración pública, y quizás también en el manejo de las instituciones políticas y económicas, en función de que por primera vez en la historia el país será dirigido por un Gobierno que se reconoce como de izquierda y/o alternativo. El presente trabajo pretende arrojar algunas ideas desde las aproximaciones textuales y contextuales del concepto de Gobernabilidad aplicada al actual contexto político y público de los ganadores de las elecciones presidenciales 2022-2026 en Colombia. En miras a poder idear desde esta cátedra cómo, a partir de las distintas relaciones políticas que trae consigo la victoria de Gustavo Petro y Francia Márquez, se proyecta el statu quo institucional y la administración pública.
+
+#### Aproximación textual y contextual del concepto de gobernabilidad
+
+El concepto de gobernabilidad es un concepto que ha generado un sinnúmero de discusiones alrededor de su significado y aplicaciones dentro de los distintos sistemas políticos y sociales del mundo. Así pues, el concepto de gobernabilidad a través de su trasegar se ha entendido desde la experticia de poder gobernar hasta la forma de cómo unificar criterios sociales y políticos plasmados en acuerdos de toda índole para cumplir objetivos de un gobierno en un contexto y situación dada.
+
+Para fines de este ensayo y en miras a su objetivo, se parte de esta primera premisa dictada por Michel Coppedge (en Camou 2001:212, citado en Mayorga & Córdova 2007: 3): "la gobernabilidad se define como el grado en el cual el sistema político se institucionaliza", es decir, cómo las ideas y las doctrinas políticas que se llevan a cabo dentro de una sociedad se convierten en institución, entiéndase esta como regla, comportamiento de una determinada y estructurada sociedad. Así pues, se puede precisar que la gobernabilidad, o el modelo de gobernabilidad, se institucionaliza de acuerdo a las exigencias y relaciones contextuales en términos políticos, sociales y económicos de un territorio.
+
+Para el caso colombiano, Colombia ha sido un país que políticamente ha sido gobernado por partidos y movimientos que tienen dentro de sus líneas conductuales doctrinas políticas y económicas de corte derechista y conservador, lo cual ha hecho que durante más de 200 años se consolide una institucionalidad acorde a dichos principios y sistema político. Por tal razón, la discusión hoy por hoy a partir de lo expresado por Coppedge entra a generar discusiones académicas y políticas fuertes frente a la idea del sistema político, que con la victoria de Gustavo Petro y Francia Márquez es un escalón que varios países de Latinoamérica han venido dando a partir de los equilibrios políticos y de poderes: el de derrocar el sistema político con doctrinas neoliberales y cosechar un sistema político con doctrinas alternativas y de izquierda a lo ancho y largo de Latinoamérica, que los ganadores en esta contienda nacional han llamado el *Vivir sabroso*.
+
+En la misma línea, Antonio Camou (2011, citado en Mayorga & Córdova 2007:1) manifiesta el siguiente entendimiento sobre el concepto de Gobernabilidad: esta debe ser entendida como "un estado de equilibrio dinámico entre el nivel de las demandas societales y la capacidad del sistema político (estado/gobierno) para responderlas de manera legítima y eficaz", entiéndase legitimidad como una cualidad de la gobernabilidad que, en este caso, puede verse soportada en términos electorales por los más de 11 millones de votos, y eficaz por asumir los intereses de todo un país al menor costo posible.
+
+En ese sentido, los actuales ganadores de las elecciones presidenciales presentan retos importantes en términos de gobernabilidad. Son los primeros mandatarios en llegar a la presidencia y vicepresidencia de la República de Colombia con un pensamiento alternativo o declarado de izquierda; así mismo, no son mayoría en el congreso, aunque a fecha de hoy[^1] varios partidos se han declarado de gobierno, y los acuerdos en el congreso ayudan mucho en términos de alcanzar esa gobernabilidad —sin embargo, será un tema que analizaremos más adelante—. Por último, encuentran un país cansado de la polarización, la desigualdad, la corrupción, entre otros. Sin duda alguna, el nuevo gobierno, como lo expresó Gustavo Petro en su intervención de victoria, deberá gobernar las diferencias.
+
+#### Gobernabilidad en el nuevo contexto: juego de poderes en busca de garantizar un cambio y vivir sabroso
+
+Bajo las anteriores premisas, el nuevo gobierno de Colombia deberá, desde este próximo 7 de agosto, buscar los máximos niveles de gobernabilidad y preestablecer un nuevo paradigma de gobernabilidad en la historia del país. En este punto, se tomará como base lo expresado por Camou (2001:51, en Mayorga & Córdova 2007:2): los paradigmas de gobernabilidad "relacionan niveles de análisis (cultura política, instituciones y políticas públicas) y campos de acción gubernamental si se sustentan en una serie de acuerdos básicos entre las élites dirigentes y una mayoría significativa de la población". En ese sentido, para que el nuevo gobierno nacional tenga gobernabilidad política, tendrá que realizar acuerdos sobre lo fundamental (nivel de cultura política, reglas del juego e instituciones del juego político, y el papel del Estado y sus políticas públicas estratégicas) —eso que necesita a toda fuerza Colombia—, a pesar de que los acuerdos no son suficientes. Deberá vincular en el gabinete de gobierno a actores estratégicos de todos los sectores políticos, lo que implica un esfuerzo gigante por recrear una unidad nacional o un gran acuerdo nacional por Colombia, donde lo societal, como decíamos anteriormente, sea lo primario dentro de la construcción de una gobernabilidad que ayude a vivir sabroso. En caso contrario, si el gobierno de Gustavo y Francia no logra hacer dicho acuerdo nacional o vincular a la gran mayoría de los actores estratégicos —es decir, los partidos políticos que no hacen parte del pacto histórico—, tendrá ingobernabilidad, lo que hará tener una administración pública fallida, con pérdida de manejo y de robustez de las instituciones políticas y económicas del país.
+
+En aras de buscar la mencionada gobernabilidad del primer gobierno de izquierda del país, el juego de poderes y de actores estratégicos comienza a retumbar nombres para el gabinete de ministros que coadyuven en ese objetivo y de esa forma recrear una administración pública fuerte y robusta para el bienestar económico, social y político.
+
+#### Referencias bibliográficas
+
+Camou, Antonio (Estudio preliminar y compilación) (2001). *Los desafíos de la Gobernabilidad*. México: Flacso/IISUNAM/Plaza y Valdés.
+
+Mayorga, F. & Córdova, E. (2007). "Gobernabilidad y Gobernanza en América Latina". *Working Paper NCCR Norte-Sur IP8*, Ginebra.
+
+Morales, N. (20 de junio de 2022). "¿Quiénes están en el sonajero para integrar el gabinete de ministros del gobierno?". *La República*.
+
+[^1]: 23 de junio de 2022

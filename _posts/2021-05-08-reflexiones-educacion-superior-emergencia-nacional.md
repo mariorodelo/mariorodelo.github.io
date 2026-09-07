@@ -1,4 +1,4 @@
----
+                                    ---
 layout: post
 title: "Reflexiones sobre la educación superior en el estado de emergencia nacional"
 date: 2021-05-08 09:00:00

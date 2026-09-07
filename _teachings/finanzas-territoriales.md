@@ -5,6 +5,7 @@ description: Análisis de la estructura financiera de las entidades territoriale
 instructor: Mario Alberto Rodelo Sehuanes
 year: 2026
 course_id: finanzas-territoriales
+category: Posgrados
 schedule:
   - week: 1
     date: Unidad 1

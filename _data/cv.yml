@@ -1,189 +1,178 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Mario Alberto Rodelo Sehuanes
+  label: Contador Público, Economista y Magíster en Tributación
+  email: mrodelo@mail.uniatlantico.edu.co
+  location: Barranquilla, Colombia
+  summary: "Contador Público y Economista de la Universidad del Atlántico, Magíster en Tributación de la Universidad Libre de Colombia, con conocimiento en distintas áreas económicas, financieras y administrativas, y énfasis en investigación en el área pedagógica, educativa y en herramientas tecnológicas e informáticas."
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: mario-alberto-rodelo-sehuanes-a9968325b
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    Educación:
+      - institution: Universidad del Atlántico
+        location: Barranquilla, Colombia
+        area: Finanzas Territoriales
+        studyType: Especialización
+        start_date: 2024-02
+        end_date: 2024-12
+      - institution: Universidad Libre de Colombia
+        location: Barranquilla, Colombia
+        area: Tributación
+        studyType: Maestría
+        start_date: 2021-02
+        end_date: 2023-07
+      - institution: Universidad del Atlántico
+        location: Barranquilla, Colombia
+        area: Economía
+        studyType: Pregrado
+        start_date: 2014-02
+        end_date: 2023-08
+      - institution: Universidad del Atlántico
+        location: Barranquilla, Colombia
+        area: Contaduría Pública
+        studyType: Pregrado
+        start_date: 2012-02
+        end_date: 2020-02
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+    Experiencia:
+      - company: Universidad del Atlántico
+        position: Docente Tiempo Completo Ocasional
+        location: Facultad de Ciencias Económicas, Programa de Contaduría Pública
+        start_date: 2024-01
+        end_date: present
+      - company: Universidad del Atlántico
+        position: Docente Medio Tiempo
+        location: Facultad de Ciencias Económicas, Programa de Contaduría Pública
+        start_date: 2023-07
+        end_date: 2023-12
+      - company: Universidad del Atlántico
+        position: Docente Catedrático
+        location: Facultad de Ciencias Económicas, Programa de Contaduría Pública
+        start_date: 2022-02
+        end_date: 2023-06
+      - company: Ministerio de Hacienda y Crédito Público
+        position: Dirección General de Apoyo Fiscal (DAF)
+        start_date: 2022-02
+        end_date: 2022-07
+      - company: Equalizer Inc SAS
+        position: Auxiliar Contable
+        start_date: 2022-01
+        end_date: 2023-03
+      - company: Unidad Investigativa Contable del Atlántico
+        position: Asistente Contable
+        start_date: 2020-06
+        end_date: 2021-06
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
+    Publicaciones:
+      - title: "Reflexión sobre la formación del estudiante de contaduría pública: pensar y recrear un nuevo profesional"
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
+          - Mario Alberto Rodelo Sehuanes
+        publisher: Revista Aglala
+        releaseDate: 2016
+      - title: "Reflexiones sobre la educabilidad: elemento fundamental en el proceso educacional del desarrollo humano"
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+          - Mario Alberto Rodelo Sehuanes
+          - Sheyla Castro Bolaño
+        publisher: Revista Cultura, Educación y Sociedad
+        releaseDate: 2016
+      - title: "Pedagogía crítico social: corriente pedagógica necesaria para el proceso formativo del ser contable"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Mario Alberto Rodelo Sehuanes
+        publisher: Revista Gestión y Desarrollo Libre
+        releaseDate: 2017
+      - title: "Competencias genéricas en los programas de Contaduría Pública: el caso de la Universidad del Atlántico entre los periodos 2016 al 2018"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+          - Mario Alberto Rodelo Sehuanes
+          - Candy Lorena Chamorro González
+        publisher: Contaduría Universidad de Antioquia
+        releaseDate: 2020
+      - title: "Formación (en competencias) investigativa(s) en los estudiantes de Contaduría Pública: Caso Universidad del Atlántico 2015-2019"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Mario Alberto Rodelo Sehuanes
+          - Candy Lorena Chamorro González
+          - Wendell Archibold Barrios
+        publisher: Revista Facultad de Ciencias Económicas
+        releaseDate: 2021
+      - title: "Estado actual de la investigación en educación contable en Colombia: una aproximación bibliométrica para el período 2000-2020"
+        authors:
+          - Mario Alberto Rodelo Sehuanes
+          - Candy Lorena Chamorro González
+        publisher: Teuken Bidikay
+        releaseDate: 2021
+      - title: "Contabilidad crítica. Una revisión bibliométrica de las investigaciones"
+        authors:
+          - Candy Chamorro González
+          - Verónica Jaramillo Giraldo
+          - Elizabeth Pescador Muñoz
+          - Mario Rodelo Sehuanes
+        publisher: Criterio Libre
+        releaseDate: 2022
+      - title: "Retos, tendencias, avances y obstáculos de la contabilidad crítica"
+        authors:
+          - Alejandro Builes Morales
+          - Candy Chamorro González
+          - Andrés Bastidas Pineda
+          - Mario Rodelo Sehuanes
+        publisher: Revista Criterios
+        releaseDate: 2022
+      - title: "Las ciencias sociales en la contabilidad. Abordajes epistemológicos desde el pensamiento complejo"
+        authors:
+          - Mario Alberto Rodelo Sehuanes
+          - Wilber Enrique Pérez Torres
+        publisher: Cuadernos de Administración, Universidad del Valle
+        releaseDate: 2023
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Libros y capítulos:
+      - name: Técnicas didácticas aplicadas a la formación del contador público
+        summary: "Fondo Editorial Universidad Católica Luis Amigó, 2023."
+      - name: "Reflexiones Contables. Un aporte histórico e integral a la educación contable en Colombia para el siglo XXI"
+        summary: "Capítulo en la obra de Mario Biondi: la obra de Rafael Franco Ruiz. Fondo Editorial Consejo, Argentina, 2022."
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Certificados:
+      - name: Diplomado en Docencia Universitaria
+        date: 2018-10
+        issuer: Corporación Universitaria Americana
+      - name: Seminario — Normas Internacionales de Información Financiera para PYMES
+        date: 2017-11
+        issuer: Unidad Investigativa Contable del Atlántico (UNICA)
+      - name: Diplomado en Finanzas
+        date: 2015-02
+        issuer: Politécnico de Colombia
 
-      - name: English
-        summary: "Fluent"
+    Reconocimientos:
+      - title: Distinción de Trabajo Meritoria
+        awarder: Universidad del Atlántico
+        date: 2023
+        summary: "Trabajo de grado de pregrado: Formación en Competencias Investigativas de los Estudiantes del Programa Contaduría Pública de la Universidad del Atlántico."
+      - title: Distinción de Trabajo Meritoria
+        awarder: Universidad Libre de Colombia
+        date: 2023
+        summary: "Trabajo de grado de maestría: Educación Contable-Tributaria en los Programas de Contaduría Pública en Barranquilla."
+      - title: Investigador Asociado (I)
+        awarder: Minciencias
+        summary: "Reconocimiento como investigador asociado en el Sistema Nacional de Ciencia, Tecnología e Innovación de Colombia."
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Grupos de investigación:
+      - name: Organizaciones Sostenibles
+        summary: "Miembro activo desde 2023."
+      - name: Unidad Investigativa Contable del Atlántico (UNICA)
+        summary: "Co-líder, miembro activo desde 2018."
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Evaluación de revistas:
+      - name: Revista Visión Contable
+        date: 2022
+      - name: Revista Contaduría Universidad de Antioquia
+        date: 2024
+      - name: Revista Gender, Organization and Work (GOW)
+        date: 2024
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Idiomas:
+      - name: Español
+        summary: "Nativo"
+      - name: Inglés
+        summary: "B2"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Habilidades:
+      - name: Herramientas computacionales
+        keywords: "Microsoft Office (Word, Excel, PowerPoint, Access)"

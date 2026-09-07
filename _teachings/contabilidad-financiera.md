@@ -5,6 +5,7 @@ description: Introducción a los principios y normas de la contabilidad financie
 instructor: Mario Alberto Rodelo Sehuanes
 year: 2026
 course_id: contabilidad-financiera
+category:Pregrado
 schedule:
   - week: 1
     date: Unidad 1
